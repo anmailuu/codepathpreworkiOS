@@ -1,6 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *The Color Monster*
 
 Submitted by: An Luu
+
+https://github.com/anmailuu/codepathpreworkiOS
 
 Color changer is an app that... changes the background color when you click the button!
 
@@ -19,13 +21,27 @@ https://imgur.com/a/zvzeack
 
 ## App Brainstorming (Step 4)
 
+Favorite apps
+- Launchpad for iOS 
+    - Colorful
+    - Music making
+    - Organized
+- Groovebox for iOS
+    - Keyboard
+    - Music making
+    - Rich in features
+- Blocs Wave for iOS 
+    - Uses Digital Signal Processing 
+
+- I want to make a music making app.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only challenge was getting the button to work. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [An Luu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
